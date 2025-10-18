@@ -194,27 +194,6 @@ coverage-badge -o coverage.svg -f
 
 The coverage badge will be automatically displayed at the top of this README.
 
-## Features
-
-✅ **Contact Management**
-- Add, edit, and delete contacts
-- Store multiple phone numbers per contact
-- Name validation (cannot be empty)
-- Phone validation (exactly 10 digits)
-
-✅ **Search Functionality**
-- Find contacts by name
-- Find specific phone numbers within a contact
-
-✅ **Data Integrity**
-- Prevents duplicate contacts with the same name
-- Prevents duplicate phone numbers in the same contact
-- Validates phone number format before storage
-
-✅ **User-Friendly Output**
-- Clear string representations for contacts
-- Informative error messages for validation failures
-
 ## Error Handling
 
 The system provides clear error messages for common issues:
